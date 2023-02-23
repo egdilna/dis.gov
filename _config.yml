@@ -15,6 +15,7 @@ author: www.egdilna.cz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Aktuálně: "aktualne/"
   O portálu: 
     - O OZP portálu: "about"
     - Tvůrci: "tvurci"
