@@ -6,7 +6,7 @@
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
     {%- elsif page.title -%}
-      {{ page.title | strip_html | xml_escape  }}
+      {{ page.title | strip_html | xml_escape  }} -       {{ site.title }}
     {%- else -%}
       {{ site.title | strip_html | xml_escape }}
     {%- endif -%}
