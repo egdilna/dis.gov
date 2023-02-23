@@ -4,6 +4,5 @@ title: Protokol verzí portálového engine
 ---
 
 {% for revize in site.data.versionlist %}
-<p>{{ revize.datum }} (verze {{revize.verze}}): {{revize.popis}}</p>
-  </li>
+<p>{{ revize.Datum }} (verze {{ revize.Verze }}): {{revize.Popis}}</p>
 {% endfor %}
