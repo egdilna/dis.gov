@@ -15,7 +15,13 @@ author: www.egdilna.cz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  "O portálu": "about"
+  O portálu: 
+- O OZP portálu: "about"
+- Tvůrci: "tvurci"
+- Jak to funguje: "jaktofunguje"
+- Zapojte se: "zapojtese"
+- GitHub portálu: "https://github.com/egdilna/dis.gov"
+- Úkoly: "https://github.com/egdilna/dis.gov/issues"
 
 # --- Logo --- #
 
